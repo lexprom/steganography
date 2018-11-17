@@ -1,0 +1,7 @@
+C:\Users\lexpr\source\repos\Steganography\Steganography\bin\Debug\Steganography.exe.config
+C:\Users\lexpr\source\repos\Steganography\Steganography\bin\Debug\Steganography.exe
+C:\Users\lexpr\source\repos\Steganography\Steganography\bin\Debug\Steganography.pdb
+C:\Users\lexpr\source\repos\Steganography\Steganography\obj\Debug\Steganography.csprojAssemblyReference.cache
+C:\Users\lexpr\source\repos\Steganography\Steganography\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+C:\Users\lexpr\source\repos\Steganography\Steganography\obj\Debug\Steganography.exe
+C:\Users\lexpr\source\repos\Steganography\Steganography\obj\Debug\Steganography.pdb
