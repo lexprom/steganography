@@ -4,14 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7C6DC9DE-FF81-4AF4-AB30-9956FDD1406C}</ProjectGuid>
+    <ProjectGuid>{41E12A7D-4A29-49BB-A425-29944A0BF994}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Steganography</RootNamespace>
     <AssemblyName>Steganography</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
